@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\Filosofi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1818892-5EFF-471C-9AAF-203C78935C51}|Filosofi\\Filosofi.pyproj|C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\Filosofi\\Filosofi\\Filosofi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1818892-5EFF-471C-9AAF-203C78935C51}|Filosofi\\Filosofi.pyproj|solutionrelative:Filosofi\\Filosofi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filosofi.py",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\Filosofi\\Filosofi\\Filosofi.py",
+              "RelativeDocumentMoniker": "Filosofi\\Filosofi.py",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\Filosofi\\Filosofi\\Filosofi.py",
+              "RelativeToolTip": "Filosofi\\Filosofi.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-14T09:58:55.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

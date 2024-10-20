@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\ServerFilosofi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D60CDC7-ABFE-4084-9E9E-ACCB14DEFB0D}|ServerFilosofi\\ServerFilosofi.pyproj|C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\ServerFilosofi\\ServerFilosofi\\ServerFilosofi.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D60CDC7-ABFE-4084-9E9E-ACCB14DEFB0D}|ServerFilosofi\\ServerFilosofi.pyproj|solutionrelative:ServerFilosofi\\ServerFilosofi.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerFilosofi.py",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\ServerFilosofi\\ServerFilosofi\\ServerFilosofi.py",
+              "RelativeDocumentMoniker": "ServerFilosofi\\ServerFilosofi.py",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\Informatica\\Python\\Server\\ServerFilosofi\\ServerFilosofi\\ServerFilosofi.py",
+              "RelativeToolTip": "ServerFilosofi\\ServerFilosofi.py",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-20T12:22:47.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
